@@ -10,12 +10,23 @@
   will-change: filter;
   transition: filter 300ms;
   font-size: 4rem;
+  font-weight: 800;
 }
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
 }
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+.icons
+{
+  font-size: 1.4rem;
+}
+
+.icons:hover
+{
+  color: #646cff;
 }
 
 @keyframes logo-spin {
