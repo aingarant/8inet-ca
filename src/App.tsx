@@ -8,7 +8,7 @@ function App() {
   return (
     <div>
       <div className='logo'>
-        8i Networks 🇨🇦
+        8i Networks
       </div>
 <div>
 <FaFacebookSquare  className='icons' />
