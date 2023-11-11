@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className='logo'>
-      8i Networks
+      8i Networks 🇨🇦
     </div>
   )
 }
